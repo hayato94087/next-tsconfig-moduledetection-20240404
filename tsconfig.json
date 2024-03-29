@@ -12,7 +12,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "moduleDetection": "force",
+    "moduleDetection": "legacy",
     "plugins": [
       {
         "name": "next"
